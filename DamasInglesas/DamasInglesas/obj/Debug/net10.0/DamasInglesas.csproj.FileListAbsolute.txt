@@ -1,0 +1,29 @@
+C:\Users\Usuario\Documents\Code shit\C# proyect\DamasInglesas\DamasInglesas\bin\Debug\net10.0\DamasInglesas.exe
+C:\Users\Usuario\Documents\Code shit\C# proyect\DamasInglesas\DamasInglesas\bin\Debug\net10.0\DamasInglesas.deps.json
+C:\Users\Usuario\Documents\Code shit\C# proyect\DamasInglesas\DamasInglesas\bin\Debug\net10.0\DamasInglesas.runtimeconfig.json
+C:\Users\Usuario\Documents\Code shit\C# proyect\DamasInglesas\DamasInglesas\bin\Debug\net10.0\DamasInglesas.dll
+C:\Users\Usuario\Documents\Code shit\C# proyect\DamasInglesas\DamasInglesas\bin\Debug\net10.0\DamasInglesas.pdb
+C:\Users\Usuario\Documents\Code shit\C# proyect\DamasInglesas\DamasInglesas\obj\Debug\net10.0\DamasInglesas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Code shit\C# proyect\DamasInglesas\DamasInglesas\obj\Debug\net10.0\DamasInglesas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Code shit\C# proyect\DamasInglesas\DamasInglesas\obj\Debug\net10.0\DamasInglesas.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Code shit\C# proyect\DamasInglesas\DamasInglesas\obj\Debug\net10.0\DamasInglesas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Code shit\C# proyect\DamasInglesas\DamasInglesas\obj\Debug\net10.0\DamasInglesas.dll
+C:\Users\Usuario\Documents\Code shit\C# proyect\DamasInglesas\DamasInglesas\obj\Debug\net10.0\refint\DamasInglesas.dll
+C:\Users\Usuario\Documents\Code shit\C# proyect\DamasInglesas\DamasInglesas\obj\Debug\net10.0\DamasInglesas.pdb
+C:\Users\Usuario\Documents\Code shit\C# proyect\DamasInglesas\DamasInglesas\obj\Debug\net10.0\DamasInglesas.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Code shit\C# proyect\DamasInglesas\DamasInglesas\obj\Debug\net10.0\ref\DamasInglesas.dll
+C:\Users\Usuario\Documents\Practicas Hernan\Practicas\DamasInglesas\DamasInglesas\obj\Debug\net10.0\DamasInglesas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Practicas Hernan\Practicas\DamasInglesas\DamasInglesas\obj\Debug\net10.0\DamasInglesas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Practicas Hernan\Practicas\DamasInglesas\DamasInglesas\obj\Debug\net10.0\DamasInglesas.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Practicas Hernan\Practicas\DamasInglesas\DamasInglesas\obj\Debug\net10.0\DamasInglesas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Practicas Hernan\Practicas\DamasInglesas\DamasInglesas\obj\Debug\net10.0\DamasInglesas.sourcelink.json
+C:\Users\Usuario\Documents\Practicas Hernan\Practicas\DamasInglesas\DamasInglesas\obj\Debug\net10.0\DamasInglesas.dll
+C:\Users\Usuario\Documents\Practicas Hernan\Practicas\DamasInglesas\DamasInglesas\obj\Debug\net10.0\refint\DamasInglesas.dll
+C:\Users\Usuario\Documents\Practicas Hernan\Practicas\DamasInglesas\DamasInglesas\obj\Debug\net10.0\DamasInglesas.pdb
+C:\Users\Usuario\Documents\Practicas Hernan\Practicas\DamasInglesas\DamasInglesas\bin\Debug\net10.0\DamasInglesas.exe
+C:\Users\Usuario\Documents\Practicas Hernan\Practicas\DamasInglesas\DamasInglesas\bin\Debug\net10.0\DamasInglesas.deps.json
+C:\Users\Usuario\Documents\Practicas Hernan\Practicas\DamasInglesas\DamasInglesas\bin\Debug\net10.0\DamasInglesas.runtimeconfig.json
+C:\Users\Usuario\Documents\Practicas Hernan\Practicas\DamasInglesas\DamasInglesas\bin\Debug\net10.0\DamasInglesas.dll
+C:\Users\Usuario\Documents\Practicas Hernan\Practicas\DamasInglesas\DamasInglesas\bin\Debug\net10.0\DamasInglesas.pdb
+C:\Users\Usuario\Documents\Practicas Hernan\Practicas\DamasInglesas\DamasInglesas\obj\Debug\net10.0\DamasInglesas.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Practicas Hernan\Practicas\DamasInglesas\DamasInglesas\obj\Debug\net10.0\ref\DamasInglesas.dll

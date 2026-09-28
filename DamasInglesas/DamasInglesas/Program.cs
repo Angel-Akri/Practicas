@@ -12,6 +12,7 @@ class Damas
  
     //Tamaño del tablero
     static string[,] tablero = new string[Tamano, Tamano];
+    static string TurnoActual = "Roja";
  
     //Bloque principal del juego
     static void Main()
@@ -26,6 +27,7 @@ class Damas
         //Bucle del juego
         while (true)
         {
+            Console.WriteLine("\nTurno de: " + TurnoActual);
             // La fila de origen es donde también se puede escribir 'salir'
             if (!Coordenada("Ingrese fila actual: ", out int filaOrigen, permitirSalir: true))break;
  
@@ -38,6 +40,12 @@ class Damas
             {
                 Console.WriteLine("");
                 ImprimirTablero();
+            }
+            else
+            {
+                Console.WriteLine("");
+                ImprimirTablero();
+                Console.WriteLine("Movimiento equivocado intente de nuevo: ");
             }
         }
         Console.WriteLine("Saliendo...");
@@ -162,6 +170,12 @@ class Damas
             Console.WriteLine("No hay ficha en la ubicacion deseada");
             return false;
         }
+        
+        if (Bando(origen) != TurnoActual)
+        {
+            Console.WriteLine("Es el turno de: " + TurnoActual);
+            return false;
+        }  
  
         string destino = tablero[filaDestino, colDestino];
  
@@ -171,10 +185,10 @@ class Damas
             Console.WriteLine("Casilla invalida");
             return false;
         }
- 
+
         if (destino != Vacia)
         {
-            Console.WriteLine("La casilla deseada esta ocupadapada");
+            Console.WriteLine("La casilla deseada esta ocupada");
             return false;
         }
  
@@ -275,6 +289,7 @@ class Damas
                 }
             }
         }
+        TurnoActual = (TurnoActual == "Roja") ? "Negra" : "Roja";
         return true;
     }
 }
